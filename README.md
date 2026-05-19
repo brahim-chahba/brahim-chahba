@@ -36,7 +36,7 @@ status   : Open to internships & opportunities
 - ⚖️ Building a **Legal RAG Chatbot** for Moroccan law *(Qwen2.5 · Fine-tuning)*
 - 🔍 Deployed **Fake News Detection** end-to-end on Azure ML + React
 - ☕ Solid **Java EE & Spring Boot** backend background
-- 📊 Into **data pipelines, scraping & BI dashboards**
+- 📊 Into **Backend,AI**
 - 🧠 Learning something new every single day
 
 </td>
