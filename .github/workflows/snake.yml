@@ -3,9 +3,6 @@ on:
   schedule: [{cron: "0 0 * * *"}]
   workflow_dispatch:
 
-env:
-  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
-
 permissions:
   contents: write
 
@@ -13,7 +10,11 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@v3
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Generate snake SVGs
+        uses: Platane/snk@v3
         with:
           github_user_name: brahim-chahba
           outputs: |
@@ -22,11 +23,11 @@ jobs:
 
       - name: Push to output branch
         run: |
-          cd dist
-          git init
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git checkout -b output
-          git add .
-          git commit -m "chore: update snake animation"
-          git push -f "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/brahim-chahba/brahim-chahba.git" output
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git remote set-url origin "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/brahim-chahba/brahim-chahba.git"
+          git fetch origin
+          git checkout -B output
+          git add dist/
+          git commit -m "chore: update snake animation" || echo "Nothing to commit"
+          git push origin output --force
