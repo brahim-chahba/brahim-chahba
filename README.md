@@ -154,14 +154,14 @@ status   : Open to internships & opportunities
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/brahim-chahba/brahim-chahba/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brahim-chahba/brahim-chahba/output/github-contribution-grid-snake.svg"/>
-    <img alt="contribution snake animation" src="https://raw.githubusercontent.com/brahim-chahba/brahim-chahba/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/brahim-chahba/brahim-chahba/output/dist/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/brahim-chahba/brahim-chahba/output/dist/github-contribution-grid-snake.svg"/>
+    <img alt="contribution snake animation"
+      src="https://raw.githubusercontent.com/brahim-chahba/brahim-chahba/output/dist/github-contribution-grid-snake-dark.svg"/>
   </picture>
 </p>
-
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"/>
 
 <!-- ═══════════════════════  CERTIFICATIONS  ══════════════════════ -->
 <h2 align="center">🏅 Certifications</h2>
