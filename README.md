@@ -152,8 +152,7 @@ status   : Open to internships & opportunities
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/brahim-chahba/brahim-chahba/output/dist/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>
-  <img width="100%" src="https://raw.githubusercontent.com/brahim-chahba/brahim-chahba/output/dist/github-contribution-grid-snake.svg#gh-light-mode-only"/>
+  <img width="100%" src="https://raw.githubusercontent.com/brahim-chahba/brahim-chahba/output/dist/github-contribution-grid-snake.svg"/>
 </p>
 
 <!-- ═══════════════════════  CERTIFICATIONS  ══════════════════════ -->
