@@ -148,19 +148,12 @@ status   : Open to internships & opportunities
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"/>
 
 
-
 <!-- ═══════════════════════  SNAKE  ═══════════════════════════════ -->
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/brahim-chahba/brahim-chahba/output/dist/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/brahim-chahba/brahim-chahba/output/dist/github-contribution-grid-snake.svg"/>
-    <img alt="contribution snake animation"
-      src="https://raw.githubusercontent.com/brahim-chahba/brahim-chahba/output/dist/github-contribution-grid-snake-dark.svg"/>
-  </picture>
+  <img width="100%" src="https://raw.githubusercontent.com/brahim-chahba/brahim-chahba/output/dist/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>
+  <img width="100%" src="https://raw.githubusercontent.com/brahim-chahba/brahim-chahba/output/dist/github-contribution-grid-snake.svg#gh-light-mode-only"/>
 </p>
 
 <!-- ═══════════════════════  CERTIFICATIONS  ══════════════════════ -->
