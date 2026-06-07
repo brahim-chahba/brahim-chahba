@@ -1,5 +1,4 @@
-<!-- ═══════════════════════════  HEADER  ═══════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Brahim%20Chahba&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20%26%20Full-Stack%20Developer%20%7C%20Engineering%20Student%20%F0%9F%87%B2%F0%9F%87%A6&descAlignY=58&descSize=17"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Brahim%20Chahba&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Backend%20and%20AI%20Engineer%20%7C%20Spring%20Boot%20%7C%20LLMs%20%7C%20ENSAH&descAlignY=58&descSize=16"/>
 
 <!-- ═══════════════════════════  BADGES  ═══════════════════════════ -->
 <p align="center">
@@ -73,7 +72,7 @@ status   : Open to internships & opportunities
 |---|---|---|
 |  **[Moroccan Legal Chatbot](#)** | Fine-tuned Qwen2.5 3B on Moroccan law for legal Q&A, with future RAG over official legal PDFs | `Python` `Qwen2.5` `Fine-tuning` `LangChain` |
 |  **[Fake News Detection](https://github.com/brahim-chahba/Fake-news-detection-azure)** | End-to-end NLP: DistilBERT fine-tune → Azure ML managed endpoint → React inference UI | `DistilBERT` `Azure ML` `MLflow` `React` |
-|  **[Java EE Product Manager](#)** | MVC2 web app: 3-tier architecture, role-based auth, Hibernate persistence | `Java EE` `Servlet` `JSP` `Hibernate` `MySQL` |
+|  **[Job-recommendation](https://github.com/brahim-chahba/Job-recommendation-pipeline)** | Automated data engineering pipeline for job recommendations, orchestrated with Apache Airflow | `AirFlow` `FastAPI` `Python` `Docker ` `PostgreSQL ` |
 |  **[Static Site on AWS](https://github.com/brahim-chahba/host-website-on-Amazon-S3)** | Full static hosting setup with S3, bucket policy, and CloudFront HTTPS | `AWS S3` `CloudFront` `IAM` |
 
 </div>
