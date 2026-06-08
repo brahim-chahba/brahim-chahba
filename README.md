@@ -32,11 +32,11 @@ focus    : AI/ML ·  Backend for Intelligent Systems · Cloud
 status   : Open to internships & opportunities
 ```
 
-- ⚖️ Building a **Legal RAG Chatbot** for Moroccan law *(Qwen2.5 · Fine-tuning)*
-- 🔍 Deployed **Fake News Detection** end-to-end on Azure ML + React
-- ☕ Solid **Java EE & Spring Boot** backend background
-- 📊 Into **Backend,AI**
-- 🧠 Learning something new every single day
+-  Building a **Legal RAG Chatbot** for Moroccan law *(Qwen2.5 · Fine-tuning)*
+-  Deployed **Fake News Detection** end-to-end on Azure ML + React
+-  Solid **Java EE & Spring Boot** backend background
+-  Into **Backend,AI**
+-  Learning something new every single day
 
 </td>
 <td valign="top" width="45%" align="center">
@@ -52,7 +52,7 @@ status   : Open to internships & opportunities
   <a href="mailto:brahimchahba9@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/brahim-chahba" target="_blank">
+  <a href="https://www.linkedin.com/in/brahimchahba/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/brahim-chahba" target="_blank">
@@ -64,7 +64,7 @@ status   : Open to internships & opportunities
 
 
 <!-- ═══════════════════════  PROJECTS  ════════════════════════════ -->
-<h2 align="center">🚀 Featured Projects</h2>
+<h2 align="center"> Featured Projects</h2>
 
 <div align="center">
 
@@ -83,7 +83,7 @@ status   : Open to internships & opportunities
 <h2 align="center">💻 Tech Stack</h2>
 
 <details open>
-<summary><b>🔧 Backend & Software Engineering</b></summary>
+<summary><b> Backend & Software Engineering</b></summary>
 <br/>
 <p align="center">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -96,7 +96,7 @@ status   : Open to internships & opportunities
 </details>
 
 <details open>
-<summary><b>🧠 AI / ML & Data</b></summary>
+<summary><b> AI / ML & Data</b></summary>
 <br/>
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -110,7 +110,7 @@ status   : Open to internships & opportunities
 </details>
 
 <details open>
-<summary><b>⚛️ Frontend</b></summary>
+<summary><b> Frontend</b></summary>
 <br/>
 <p align="center">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -122,7 +122,7 @@ status   : Open to internships & opportunities
 </details>
 
 <details open>
-<summary><b>☁️ Cloud & DevOps</b></summary>
+<summary><b> Cloud & DevOps</b></summary>
 <br/>
 <p align="center">
 <img src="https://img.shields.io/badge/Azure_ML-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
@@ -134,7 +134,7 @@ status   : Open to internships & opportunities
 </details>
 
 <details open>
-<summary><b>🗄️ Databases</b></summary>
+<summary><b> Databases</b></summary>
 <br/>
 <p align="center">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -158,12 +158,6 @@ status   : Open to internships & opportunities
 <h2 align="center">🏅 Certifications</h2>
 
 <p align="center">
-  <a href="https://coursera.org">
-    <img src="https://img.shields.io/badge/Advanced_Learning_Algorithms-0056D2?style=for-the-badge&logo=coursera&logoColor=white"/>
-  </a>
-  <a href="https://deeplearning.ai">
-    <img src="https://img.shields.io/badge/DeepLearning.AI-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  </a>
   <br/><br/>
   <a href="https://coursera.org">
     <img src="https://img.shields.io/badge/Supervised_ML:_Regression_%26_Classification-0056D2?style=for-the-badge&logo=coursera&logoColor=white"/>
