@@ -70,7 +70,7 @@ status   : Open to internships & opportunities
 
 | Project | Description | Stack |
 |---|---|---|
-|  **[Moroccan Legal Chatbot](#)** | Fine-tuned Qwen2.5 3B on Moroccan law for legal Q&A, with future RAG over official legal PDFs | `Python` `Qwen2.5` `Fine-tuning` `LangChain` |
+|  **[Moroccan Legal Chatbot](https://github.com/brahim-chahba/moroccan-legal-chatbot)** | Fine-tuned Qwen2.5 3B on Moroccan law for legal Q&A, with future RAG over official legal PDFs | `Python` `Qwen2.5` `Fine-tuning` `LangChain` |
 |  **[Fake News Detection](https://github.com/brahim-chahba/Fake-news-detection-azure)** | End-to-end NLP: DistilBERT fine-tune → Azure ML managed endpoint → React inference UI | `DistilBERT` `Azure ML` `MLflow` `React` |
 |  **[Job-recommendation](https://github.com/brahim-chahba/Job-recommendation-pipeline)** | Automated data engineering pipeline for job recommendations, orchestrated with Apache Airflow | `AirFlow` `FastAPI` `Python` `Docker ` `PostgreSQL ` |
 |  **[Static Site on AWS](https://github.com/brahim-chahba/host-website-on-Amazon-S3)** | Full static hosting setup with S3, bucket policy, and CloudFront HTTPS | `AWS S3` `CloudFront` `IAM` |
